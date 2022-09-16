@@ -1,13 +1,13 @@
-# Welcome to Pipeline
+# Index page
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+For more information visit [Bhavya's Portfolio](https://bhavyashahm123.github.io/bhavyaportfolio/).
 
-## Commands
+## Personal info
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+* `[dir-name]` - Project Pipeline.
+* `Usecase` - This Pipeline is very easy to understand.
+* `Build by` - Bhavya Shah.
+* `project info` - [github.com](https://github.com/BHAVYASHAHM123)
 
 ## Project layout
 
